@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: treasury
+  description: backstage-treasury-demo
+  annotations:
+    github.com/project-slug: krzwiatrzyk-lgd/treasury
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: krzwiatrzyk-lgd
