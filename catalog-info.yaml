@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: krzwiatrzyk-lgd/treasury
     backstage.io/techdocs-ref: dir:.
+    backstage.io/kubernetes-id: treasury
   links:
     - url: https://github.com/AirHelp/treasury
       title: Original Repository
