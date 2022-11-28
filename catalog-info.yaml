@@ -5,7 +5,11 @@ metadata:
   description: backstage-treasury-demo
   annotations:
     github.com/project-slug: krzwiatrzyk-lgd/treasury
+  links:
+    - url: https://github.com/AirHelp/treasury
+      title: Original Repository
+      icon: github
 spec:
   type: documentation
   lifecycle: experimental
-  owner: krzwiatrzyk-lgd
+  owner: AirHelp
