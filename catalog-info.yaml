@@ -5,6 +5,7 @@ metadata:
   description: backstage-treasury-demo
   annotations:
     github.com/project-slug: krzwiatrzyk-lgd/treasury
+    backstage.io/techdocs-ref: dir:.
   links:
     - url: https://github.com/AirHelp/treasury
       title: Original Repository
